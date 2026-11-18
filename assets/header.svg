@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b152a"/><stop offset="1" stop-color="#161737"/></linearGradient>
+    <linearGradient id="light" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#21c9e8"/><stop offset=".5" stop-color="#6476ff"/><stop offset="1" stop-color="#a964ff"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7061ec" stop-opacity=".35"/><stop offset="1" stop-color="#7061ec" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="278" rx="28" fill="url(#bg)" stroke="#5a6795"/>
+  <ellipse cx="1040" cy="60" rx="270" ry="200" fill="url(#glow)"/>
+  <path d="M780 279 C920 190 1000 345 1130 210 S1240 150 1280 176" fill="none" stroke="url(#light)" stroke-width="3" opacity=".75"/>
+  <path d="M780 260 C930 170 1030 320 1150 187 S1250 130 1280 140" fill="none" stroke="url(#light)" opacity=".2"/>
+  <rect x="56" y="65" width="142" height="142" rx="34" fill="#182842" stroke="#7b75dc"/>
+  <path d="m78 166 21-61 21 61m-34-20h28m18 20v-61l18 36 18-36v61" fill="none" stroke="url(#light)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="236" y="132" fill="#f4f5ff" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">AndyMooren</text>
+  <text x="239" y="178" fill="#c0c9e5" font-family="Segoe UI,Arial,sans-serif" font-size="25">Indie developer · Windows apps &amp; small tools</text>
+</svg>
